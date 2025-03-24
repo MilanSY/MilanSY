@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Milan Juino</h1>
-<h3 align="center">A passionate fullstack developer from France</h3>
+<h3 align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=cyan&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=Assalamu+O+Alaikum+Warahmatullah..♥++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a> 
+</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Contact me !</h3>
+<p align="center">
+ <h2>milanjuino@gmail.com</h2>
+ <h2><a href="https://www.linkedin.com/in/milan-juino-376636286/">linkdin</a></h2>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

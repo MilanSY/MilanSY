@@ -6,7 +6,7 @@
 <h3 align="center">Contact me !</h3>
 <p align="center">
  <h2>milanjuino@gmail.com</h2>
- <h2><a href="https://www.linkedin.com/in/milan-juino-376636286/">linkdin</a></h2>
+ <h2><a href="https://www.linkedin.com/in/milan-juino-376636286/">linkedin</a></h2>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
